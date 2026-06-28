@@ -282,5 +282,3 @@ University of Allahabad
 
 ## ⭐ If you found this project useful, consider giving it a Star on GitHub!
 ````
-
-This README follows the style commonly used in professional ML repositories and is suitable for your GitHub portfolio. Before pushing, just replace `yourusername` in the clone URL with your GitHub username.
